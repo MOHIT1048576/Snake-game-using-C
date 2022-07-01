@@ -1,1 +1,1 @@
-# Snake-game-using-C
+Basic snake Game using C++. W,A,S,D to change direction of the Snake. Eat the Fruit to Make the Snake Grow. With each fruit 10 Points will be Added to the score. If Snake eats itself, game will be over.
